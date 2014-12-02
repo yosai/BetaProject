@@ -1,3 +1,4 @@
+
 <!doctype html>
 <html>
   <head>
@@ -9,7 +10,7 @@
 <p> Veuillez saisir vos infos... </p>
 
 <?php
-
+//  premiere modification !
 
 //Tableau qui contiendra les valeurs saisies par l'utilisateur
 $valeursSaisies = array(
