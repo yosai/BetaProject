@@ -1,0 +1,5 @@
+git push 			envoyer les modifications au serveur
+git checkout name		créer une branche / switch to a branch
+git pull 			récuperer les modification sur notre git depuis un serveur ! 
+git merge name			fusionner la branche !
+git push origin name		envoyer la nouvelle branche au serveur !
